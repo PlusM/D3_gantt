@@ -11,4 +11,4 @@ https://dhtmlx.com/blog/d3-gantt-charts-vs-dhtmlx-gantt/
 https://medium.freecodecamp.org/d3-visualizations-with-datasets-how-to-build-a-gantt-like-chart-9c9afa9b8d9d
 https://www.skcript.com/svr/gantt-chart-library-for-d3js/
 https://bl.ocks.org/varun-raj/5d2caa6a9ad7de08bd5d86698e3a2403
-https://github.com/gusriobr/Gantt-Chart (edited)
+https://github.com/gusriobr/Gantt-Chart
